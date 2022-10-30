@@ -1,6 +1,6 @@
 # SNMP cracker
 
-This tool is inspired from the work of 0x0ff : https://www.0x0ff.info/2013/snmpv3-authentification/ where he teaches us why intercepted packet of SNMP are vulnerable to brutfirce attacks. This is exactly what this tool do.
+This tool is inspired from the work of 0x0ff : https://www.0x0ff.info/2013/snmpv3-authentification/ where he teaches us why intercepted packet of SNMP are vulnerable to brutforce attacks. This is exactly what this tool do.
 
 ## Usage :
 
